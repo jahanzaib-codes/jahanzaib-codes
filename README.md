@@ -1,5 +1,6 @@
-<!-- Professional Yellow Header Banner with Text Animation -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:000000&height=200&section=header&text=Jahanzaib&fontSize=55&fontColor=FFD700&fontAlignY=45&animation=twinkling&desc=Software%20Engineer%20%7C%20Blockchain%20Developer%20%7C%20AI%20Enthusiast&descSize=22&descAlignY=65" width="100%"/>
+<!-- 🌟 Professional Gradient Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:FF8C00,100:FF4500&height=200&section=header&text=Jahanzaib&fontSize=55&fontColor=000000&fontAlignY=45&animation=twinkling&desc=Software%20Engineer%20%7C%20Blockchain%20Developer%20%7C%20AI%20Enthusiast&descSize=22&descAlignY=65" width="100%"/>
+
 
 I'm **Jahanzaib Ali**, a Software Engineer and Blockchain Developer from Sukkur, Sindh, Pakistan.  
 I specialize in building **AI-powered apps**, **blockchain wallets**, and **automated trading bots** for platforms like **IBKR, MT5, and TradingView**.  
@@ -90,5 +91,5 @@ I’m passionate about:
   <a href="#"><img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=white" /></a>
 </p>
 
-<!-- Professional Yellow Footer Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:000000&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&fontColor=FFD700&fontAlignY=35&animation=twinkling" width="100%"/>
+<!-- 🌟 Professional Footer Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:FF8C00,100:FF4500&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&fontColor=000000&fontAlignY=35&animation=twinkling" width="100%"/>
